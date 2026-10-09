@@ -7,8 +7,7 @@
 //  reglas de la base de datos que crea el archivo supabase-setup.sql.
 // ============================================================
 window.APP_CONFIG = {
-  url: "https://otybyklepjwidqnbhvhh.supabase.co
-",
+  url: "https://otybyklepjwidqnbhvhh.supabase.co",
   anonKey: "sb_publishable__EVMGUzzztFvdVBNgR4gLQ_ArVe2tx5",
   // Espacio de archivos de tu plan de Supabase, en MB (el plan gratis trae 1024).
   storageLimitMB: 1024
